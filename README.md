@@ -1,7 +1,7 @@
 # Sub-Query
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of Using an innerjoin for only those sales with a discount amount greater than zero. Then changing the select above by using sub-queries for product name, promotion name and discount percent.
 <br />
 
 
